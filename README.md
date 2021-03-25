@@ -1,6 +1,9 @@
 # GetCompliant
 ## Extracts passwords from file that match specified complexity.
 
+For example, you want to run a dictionary attack using rockyou.txt, against a Windows domain that enforces password complexity.
+But you know that >90% of those rockyou.txt passwords are invalid against your target.
+
 ### Usage:
  
     -i, --inputfile=VALUE      Password File eg. rockyou.txt
