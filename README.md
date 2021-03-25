@@ -1,5 +1,5 @@
 # GetCompliant
-## Extract passwords from file that match specified complexity.
+## Extracts passwords from file that match specified complexity.
 
 ### Usage:
  
